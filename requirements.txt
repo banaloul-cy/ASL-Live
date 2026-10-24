@@ -1,0 +1,9 @@
+# Python 3.11 64-bit. Uses a pretrained ViT; no TensorFlow training needed.
+numpy==1.26.4
+opencv-contrib-python==4.10.0.84
+mediapipe==0.10.21
+Pillow==11.3.0
+transformers==4.49.0
+safetensors>=0.4.3,<1
+jax==0.4.35
+jaxlib==0.4.35
